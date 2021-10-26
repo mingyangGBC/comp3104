@@ -7,4 +7,4 @@ deploy:
   github_token: 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
   local_dir: build
   on:
-    branch: main
+    branch: master
